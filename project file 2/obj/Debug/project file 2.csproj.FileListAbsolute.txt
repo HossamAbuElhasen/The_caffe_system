@@ -1,0 +1,16 @@
+C:\Users\El Alamia\source\repos\project file 2\project file 2\bin\Debug\project file 2.exe.config
+C:\Users\El Alamia\source\repos\project file 2\project file 2\bin\Debug\project file 2.exe
+C:\Users\El Alamia\source\repos\project file 2\project file 2\bin\Debug\project file 2.pdb
+C:\Users\El Alamia\source\repos\project file 2\project file 2\obj\Debug\project file 2.csproj.AssemblyReference.cache
+C:\Users\El Alamia\source\repos\project file 2\project file 2\obj\Debug\project_file_2.Form1.resources
+C:\Users\El Alamia\source\repos\project file 2\project file 2\obj\Debug\project_file_2.Form2.resources
+C:\Users\El Alamia\source\repos\project file 2\project file 2\obj\Debug\project_file_2.Properties.Resources.resources
+C:\Users\El Alamia\source\repos\project file 2\project file 2\obj\Debug\project file 2.csproj.GenerateResource.cache
+C:\Users\El Alamia\source\repos\project file 2\project file 2\obj\Debug\project file 2.csproj.CoreCompileInputs.cache
+C:\Users\El Alamia\source\repos\project file 2\project file 2\obj\Debug\project file 2.exe
+C:\Users\El Alamia\source\repos\project file 2\project file 2\obj\Debug\project file 2.pdb
+C:\Users\El Alamia\source\repos\project file 2\project file 2\obj\Debug\project_file_2.Form3.resources
+C:\Users\El Alamia\source\repos\project file 2\project file 2\obj\Debug\project_file_2.Form4.resources
+C:\Users\El Alamia\source\repos\project file 2\project file 2\obj\Debug\project_file_2.Form5.resources
+C:\Users\El Alamia\source\repos\project file 2\project file 2\obj\Debug\project_file_2.Form6.resources
+C:\Users\El Alamia\source\repos\project file 2\project file 2\obj\Debug\project_file_2.Form7.resources

@@ -1,0 +1,10 @@
+1_tea_5
+2_coffe_7
+3_milk_8
+4_orange_10
+5_strawberry_15
+6_cocoa_10
+7_apple_15
+8_water_5
+9_cocktail_15
+10_banana_15
